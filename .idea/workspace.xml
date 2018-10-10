@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="75e53080-7bd8-451e-99d8-a8e52098e579" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/hacktoberfest/Main.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,12 +25,9 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="65" lean-forward="false" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-              <folding>
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="231">
+              <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -227,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539210310873</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="with real">
+      <created>1539210497289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539210497289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -267,7 +272,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit 1" />
+    <MESSAGE value="with real" />
+    <option name="LAST_COMMIT_MESSAGE" value="with real" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -278,10 +284,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -303,12 +306,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="65" lean-forward="false" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>

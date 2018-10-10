@@ -4,10 +4,12 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("My name is world ");
         System.out.println("My name is Ian Mah, hackerman");
-        real();
+        String s = "Hello World";
+        real(s);
     }
 
-    private void real(){
+    private void real(String s){
         System.out.println("My name is Jonathan Kim, North Korean");
+        System.out.println(s);
     }
 }
